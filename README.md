@@ -1,4 +1,5 @@
 # games
+![Games Logo](games.png)
 
 ## what does it do
 
