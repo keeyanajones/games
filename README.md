@@ -1,10 +1,7 @@
 # games
-
-## what does it do
 Electronic games that involves interaction with a user interface to generate visual feedback on a two- or three-dimensional video display device such as a touchscreen, virtual reality headset or monitor/TV set. 
 
 ## Table of Content
-- what does it do 
 - what is it
 - technology used
 - ambition of project
