@@ -3,19 +3,6 @@
 ## what does it do
 Electronic games that involves interaction with a user interface to generate visual feedback on a two- or three-dimensional video display device such as a touchscreen, virtual reality headset or monitor/TV set. 
 
-## what is it
-- games
-- CREATED : Apr 15, 2018 (2014)
-
-## technology used
-Java, JavaScript, C#, unity 
-
-## ambition of project
-keep track of my games works with github blog post
-
-## stage
-IN DEVELOPMENT
-
 ## Table of Content
 - what does it do 
 - what is it
@@ -27,6 +14,20 @@ IN DEVELOPMENT
 - what's included
 - creators
 - copyright and license
+
+## what is it
+- games
+- CREATED : Apr 15, 2018 (2014)
+- MODIFIED : Nov 29, 2022
+
+## technology used
+Java, JavaScript, C#, unity 
+
+## ambition of project
+keep track of my games works with github blog post
+
+## stage
+IN DEVELOPMENT
 
 ## quick start
 Quick setup — if you’ve done this kind of thing before
