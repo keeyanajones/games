@@ -16,26 +16,16 @@ keep track of my games works with github blog post
 ## stage
 IN DEVELOPMENT
 
-## known issues / thing not properly done 
-
 ## Table of Content
 - what does it do 
 - what is it
 - technology used
 - ambition of project
 - stage
-- known issues/ thing not properly done
 - quick start
 - status
 - what's included
-- bug and feature request
-- running documentation locally
-- pervious releases
-- contributing
-- community 
-- versioning
 - creators
-- thanks/backers/sponsors
 - copyright and license
 
 ## quick start
@@ -74,22 +64,8 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 ## what's included
 Electronic games that involves interaction with a user interface to generate visual feedback on a two- or three-dimensional video display device such as a touchscreen, virtual reality headset or monitor/TV set.
     
-## bug and feature request
-
-## running documentation locally
-
-## previous releases
-
-## contributing
-
-## community
- 
-## versioning
-
 ## creators
  - 2020 Keeyana Jones
-
-## thanks/backers/sponsors
 
 ## copyright and license 
  - MIT License Copyright (c) 2020 Keeyana Jones
